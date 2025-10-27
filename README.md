@@ -1,6 +1,6 @@
 # YOLOv1
 ## YOLOv1 architectury PyTorch implement
-Реализация архитектуры YOLOv1 для задачи детекции одноко класса (person)<br>
+Реализация архитектуры YOLOv1 для задачи детекции одного класса (person)<br>
 **Вид архитектуры:**
 ![Вид архитектуры](images/YOLO-Full-Model-Architecture.png)
 
